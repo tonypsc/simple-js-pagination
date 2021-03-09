@@ -1,5 +1,5 @@
 
-// Pagination
+// Creates pagination
 const createPagination = (pages) => {
     
     //constants
